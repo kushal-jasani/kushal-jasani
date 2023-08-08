@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kushal-jasani&label=Profile%20views&color=0e75b6&style=flat" alt="kushal-jasani" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kushal-jasani" alt="kushal-jasani" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/kushinsights" target="blank"><img src="https://img.shields.io/twitter/follow/kushinsights?logo=twitter&style=for-the-badge" alt="kushinsights" /></a> </p>
 
 - 🌱 I’m currently learning **Backend development in NodeJs and exploring related technologies.**
