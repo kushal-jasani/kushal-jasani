@@ -6,6 +6,8 @@
 <p align="left"> <a href="https://twitter.com/kushinsights" target="blank"><img src="https://img.shields.io/twitter/follow/kushinsights?logo=twitter&style=for-the-badge" alt="kushinsights" /></a> </p>
 
 - 🌱 I’m currently learning **Backend development in NodeJs and exploring related technologies.**
+  
+- 💬 Ask me about **reactJs,PHP,Javascript,AI**
 
 - 📫 How to reach me **kushaljasani12@gmail.com**
 
